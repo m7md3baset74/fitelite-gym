@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+html{
+    scroll-behavior: smooth;
+    font-size: 83%;
+}
+
+@media (max-width: 640px) {
+    html{
+        font-size: 75%;
+    }
+}
+
+@media (max-width: 537px) {
+    html{
+        font-size: 73%;
+    }
+}
