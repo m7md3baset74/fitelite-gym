@@ -1,2 +1,13 @@
 @import "tailwindcss";
 
+html{
+    scroll-behavior: smooth;
+    font-size: 83%;
+}
+
+ @media (max-width: 1024px) {
+    html{
+        font-size: 100%;
+    }
+}
+
