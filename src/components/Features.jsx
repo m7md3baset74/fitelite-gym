@@ -161,13 +161,13 @@ export default function Features() {
           <div className="flex items-center justify-center mb-4">
             <div className="h-0.5 w-8 bg-red-600 mr-3"></div>
             <span className="text-red-600 font-semibold text-sm tracking-wider uppercase">
-              Premium Eperience
+              Premium Experience
             </span>
             <div className="h-0.5 w-8 bg-red-600 ml-3"></div>
           </div>
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
             Why Choose
-            <span className="text-red-600">FITELITE</span>?
+            <span className="text-red-600"> FITELITE</span>?
           </h2>
           <p className="max-w-2xl mx-auto text-gray-600 text-lg">
             We combain luxury and fitness to provide an unparalleled gym
