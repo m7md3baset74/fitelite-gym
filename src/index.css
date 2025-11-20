@@ -5,9 +5,9 @@ html{
     font-size: 83%;
 }
 
- @media (max-width: 1024px) {
+ /* @media (max-width: 1024px) {
     html{
         font-size: 100%;
     }
-}
+} */
 
