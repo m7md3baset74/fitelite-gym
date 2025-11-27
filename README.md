@@ -1,4 +1,16 @@
-# React + Vite
+# FitElite Gym Website | React + Vite
+
+<div align="center">
+  <br />
+    <img src="./public/FitElite-cover.png" alt="Project Banner" href="https://github.com/m7md3baset74">
+  <br />
+  <div>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  </div>
+  <h3 align="center">A modern, responsive fitness website for FitElite</h3>
+</div>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
